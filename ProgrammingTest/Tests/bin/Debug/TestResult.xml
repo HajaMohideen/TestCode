@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\admin\Desktop\Motion Software\ProgrammingTest\Tests\bin\Debug\Tests.dll" total="8" errors="8" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-07-09" time="20:57:04">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5420" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="ADMIN-PC" user="admin" user-domain="admin-PC" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\admin\Desktop\Motion Software\ProgrammingTest\Tests\bin\Debug\Tests.dll" executed="True" result="Failure" success="False" time="0.406" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Tests" executed="True" result="Failure" success="False" time="0.390" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="WhenTheDefaultValue" executed="True" result="Failure" success="False" time="0.390" asserts="0">
+            <results>
+              <test-case name="Tests.WhenTheDefaultValue.When_Pin_Generated_Successfully" executed="True" result="Error" success="False" time="0.140" asserts="0">
+                <failure>
+                  <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                  <stack-trace><![CDATA[at Tests.WhenTheDefaultValue.When_Pin_Generated_Successfully() in C:\Users\admin\Desktop\Motion Software\ProgrammingTest\Tests\WhenTheDefaultValue.cs:line 84
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="Tests.WhenTheDefaultValue.When_The_Default_Number_Be_Ten" executed="True" result="Error" success="False" time="0.000" asserts="0">
+                <failure>
+                  <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                  <stack-trace><![CDATA[at Tests.WhenTheDefaultValue.When_The_Default_Number_Be_Ten() in C:\Users\admin\Desktop\Motion Software\ProgrammingTest\Tests\WhenTheDefaultValue.cs:line 33
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="Tests.WhenTheDefaultValue.When_The_Default_Number_Be_Ten_when_empty_param_passed" executed="True" result="Error" success="False" time="0.000" asserts="0">
+                <failure>
+                  <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                  <stack-trace><![CDATA[at Tests.WhenTheDefaultValue.When_The_Default_Number_Be_Ten_when_empty_param_passed() in C:\Users\admin\Desktop\Motion Software\ProgrammingTest\Tests\WhenTheDefaultValue.cs:line 23
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="Tests.WhenTheDefaultValue.When_The_Number_Equal_To_Hundred" executed="True" result="Error" success="False" time="0.000" asserts="0">
+                <failure>
+                  <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                  <stack-trace><![CDATA[at Tests.WhenTheDefaultValue.When_The_Number_Equal_To_Hundred() in C:\Users\admin\Desktop\Motion Software\ProgrammingTest\Tests\WhenTheDefaultValue.cs:line 63
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="Tests.WhenTheDefaultValue.When_The_Number_Greater_Than_Hundred" executed="True" result="Error" success="False" time="0.000" asserts="0">
+                <failure>
+                  <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                  <stack-trace><![CDATA[at Tests.WhenTheDefaultValue.When_The_Number_Greater_Than_Hundred() in C:\Users\admin\Desktop\Motion Software\ProgrammingTest\Tests\WhenTheDefaultValue.cs:line 73
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="Tests.WhenTheDefaultValue.When_The_Number_Greater_Than_Ten" executed="True" result="Error" success="False" time="0.000" asserts="0">
+                <failure>
+                  <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                  <stack-trace><![CDATA[at Tests.WhenTheDefaultValue.When_The_Number_Greater_Than_Ten() in C:\Users\admin\Desktop\Motion Software\ProgrammingTest\Tests\WhenTheDefaultValue.cs:line 53
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="Tests.WhenTheDefaultValue.When_The_Number_Less_Than_Ten" executed="True" result="Error" success="False" time="0.000" asserts="0">
+                <failure>
+                  <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                  <stack-trace><![CDATA[at Tests.WhenTheDefaultValue.When_The_Number_Less_Than_Ten() in C:\Users\admin\Desktop\Motion Software\ProgrammingTest\Tests\WhenTheDefaultValue.cs:line 43
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="Tests.WhenTheDefaultValue.When_WritePin_Function_Generated_Successfully" executed="True" result="Error" success="False" time="0.062" asserts="0">
+                <failure>
+                  <message><![CDATA[System.NullReferenceException : Object reference not set to an instance of an object.]]></message>
+                  <stack-trace><![CDATA[at Tests.WhenTheDefaultValue.When_WritePin_Function_Generated_Successfully() in C:\Users\admin\Desktop\Motion Software\ProgrammingTest\Tests\WhenTheDefaultValue.cs:line 96
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
